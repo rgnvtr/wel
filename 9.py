@@ -1,0 +1,11 @@
+x = int(input())
+b = x
+c = x * 2
+a = x * 3
+d = x * 4
+e = x * 5
+print('x=', b)
+print('2x=', c)
+print('3x=', a)
+print('4x=', d)
+print('5x=', e)
